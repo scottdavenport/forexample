@@ -1,1 +1,3 @@
-package forexample
+package main {
+	
+}
